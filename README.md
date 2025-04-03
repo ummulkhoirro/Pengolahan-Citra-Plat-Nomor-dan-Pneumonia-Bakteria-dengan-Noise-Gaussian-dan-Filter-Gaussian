@@ -1,0 +1,1 @@
+# Pengolahan-Citra-Plat-Nomor-dan-Pneumonia-Bakteria-dengan-Noise-Gaussian-dan-Filter-Gaussian
